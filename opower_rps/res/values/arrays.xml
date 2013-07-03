@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="difficulty">
+        <item>@string/normal_label</item>
+        <item>@string/hard_label</item>
+    </array>
+    <array name="weapon">
+        <item>@string/rock_button_text</item>
+        <item>@string/paper_button_text</item>
+        <item>@string/scissors_button_text</item>
+    </array>
+    <array name="game_types">
+        <item>@string/series_text</item>
+        <item>@string/infinite_text</item>
+    </array>
+</resources>

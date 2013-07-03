@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OPower_RPS</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_welcome_text">Welcome to the wonderful world of</string>
+    <string name="game_name_text">Rock-Paper-Scissors</string>
+    <string name="new_button_text">New Game</string>
+    <string name="continue_button_text">Continue Game</string>
+    <string name="about_button_text">About</string>
+    <string name="exit_button_text">Exit</string>
+    <string name="about_label_text">About: Rock-Paper-Scissors</string>
+    <string name="new_game_title">Difficulty</string>
+    <string name="game_type_title">Game Type</string>
+    <string name="normal_label">Normal</string>
+    <string name="hard_label">Hard</string>
+    <string name="about_text">Rock-paper-scissors is a game usually played by two people,
+        					  where players simultaneously form one of three shapes with an 
+        					  outstretched hand (or in this case pick one from a screen). 
+        					  The "rock" beats scissors, the "scissors" beat paper and the 
+        					  "paper" beats rock; if both players throw the same shape, the 
+        					  game is tied.</string>
+    <string name="arena_text">RPS Arena</string>
+    <string name="player_text">Player</string>
+    <string name="computer_text">Computer</string>
+    <string name="round_text">Round:</string>
+    <string name="begin_button_text">Begin</string>
+    <string name="total_score_text">Total Score</string>
+    <string name="best_of_text">"Series: first to "</string>
+    <string name="rock_button_text">Rock</string>
+    <string name="paper_button_text">Paper</string>
+    <string name="scissors_button_text">Scissors</string>
+    <string name="player_choice_title">Selection</string>
+    <string name="win_text">YOU WIN!</string>
+    <string name="win_game_text">YOU WON THE MATCH!</string>
+    <string name="lose_text">YOU LOSE!</string>
+    <string name="lose_game_text">Better luck next time</string>
+    <string name="tie_text">TIE!</string>
+    <string name="player_sel_text">Player selected </string>
+    <string name="computer_sel_text">Computer selected </string>
+    <string name="series_text">Series</string>
+    <string name="infinite_text">Inifinite</string>
+    <string name="series_cap_title">Pick the series wins cap</string>
+    <string name="series_cap_hint">Number of wins in the series</string>
+    <string name="ok">OK</string>
+    <string name="series_error">Series win cap must be between 1-99.</string>
+    <string name="error_title">Error</string>
+
+</resources>
